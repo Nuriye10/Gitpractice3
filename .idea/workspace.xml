@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="873efc68-9b2f-4feb-b20b-b8a878c8f662" name="Changes" comment="updated the test case 001">
-      <change afterPath="$PROJECT_DIR$/src/TestForToday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThrownExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/page1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secret.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15_methodOverLoading/childClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15_methodOverLoading/method_overriding/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/CustomArithmeticException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/CustomExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/DisAdvantageOfThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/HasBixby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/HasPen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/HasSiri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/Samsung.java" afterDir="false" />
-    </list>
+    <list default="true" id="873efc68-9b2f-4feb-b20b-b8a878c8f662" name="Changes" comment="finishing test case 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +15,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="feature-20" />
+    <option name="OPTIONS">
+      <set>
+        <option value="NO_FF" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feature-20" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -161,7 +153,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673293114132</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="setting up test case 2">
+      <created>1673299674731</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673299674731</updated>
+    </task>
+    <task id="LOCAL-00015" summary="setting up test case 2">
+      <created>1673299867035</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673299867035</updated>
+    </task>
+    <task id="LOCAL-00016" summary="finishing test case 2">
+      <created>1673299956332</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673299956332</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +227,8 @@
     <MESSAGE value="created fun.txt" />
     <MESSAGE value="create the test case 001" />
     <MESSAGE value="updated the test case 001" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the test case 001" />
+    <MESSAGE value="setting up test case 2" />
+    <MESSAGE value="finishing test case 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing test case 2" />
   </component>
 </project>
