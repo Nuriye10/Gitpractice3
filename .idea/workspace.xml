@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="873efc68-9b2f-4feb-b20b-b8a878c8f662" name="Changes" comment="updated the test case 001">
+      <change afterPath="$PROJECT_DIR$/src/TestForToday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThrownExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/page1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secret.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week15_methodOverLoading/childClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week15_methodOverLoading/method_overriding/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/CustomArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/CustomExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/DisAdvantageOfThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/HasBixby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/HasPen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/HasSiri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_18_01_07_2023/Samsung.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ijg0UNeJLgKVNr2zMKD5fgcuq8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="week_18_01_07_2023" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="873efc68-9b2f-4feb-b20b-b8a878c8f662" name="Changes" comment="" />
+      <created>1670700185893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670700185893</updated>
+    </task>
+    <task id="LOCAL-00001" summary="creat gitpractice2.iml">
+      <created>1670700572847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670700572847</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created .gitignore">
+      <created>1671054401760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671054401760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created .gitignore">
+      <created>1671054416455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671054416455</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added my secret file to the gitignore">
+      <created>1671055102657</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671055102657</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creat a project">
+      <created>1672339707521</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672339707521</updated>
+    </task>
+    <task id="LOCAL-00006" summary="creat a project">
+      <created>1672339919081</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672339919081</updated>
+    </task>
+    <task id="LOCAL-00007" summary="bbb">
+      <created>1672953011937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672953011937</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created.gitignore">
+      <created>1672957274365</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672957274365</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added my planes file to the gitignore">
+      <created>1672957926031</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672957926031</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated gitignore">
+      <created>1672959398476</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672959398476</updated>
+    </task>
+    <task id="LOCAL-00011" summary="created fun.txt">
+      <created>1672959592006</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672959592006</updated>
+    </task>
+    <task id="LOCAL-00012" summary="create the test case 001">
+      <created>1673292960691</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673292960691</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updated the test case 001">
+      <created>1673293114132</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673293114132</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creat gitpractice2.iml" />
+    <MESSAGE value="created .gitignore" />
+    <MESSAGE value="added my secret file to the gitignore" />
+    <MESSAGE value="creat a project" />
+    <MESSAGE value="bbb" />
+    <MESSAGE value="created.gitignore" />
+    <MESSAGE value="added my planes file to the gitignore" />
+    <MESSAGE value="updated gitignore" />
+    <MESSAGE value="created fun.txt" />
+    <MESSAGE value="create the test case 001" />
+    <MESSAGE value="updated the test case 001" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the test case 001" />
+  </component>
+</project>
